@@ -1,0 +1,49 @@
+---
+import Base from '../layouts/Base.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import Hero from '../components/Hero.astro';
+import Stats from '../components/Stats.astro';
+import Story from '../components/Story.astro';
+import TrackRecord from '../components/TrackRecord.astro';
+import Gallery from '../components/Gallery.astro';
+import InTheirWords from '../components/InTheirWords.astro';
+import Press from '../components/Press.astro';
+import Strengths from '../components/Strengths.astro';
+import Internship from '../components/Internship.astro';
+import Contact from '../components/Contact.astro';
+import Footer from '../components/Footer.astro';
+import Motion from '../components/Motion.astro';
+import { loadSite } from '../lib/athlete.ts';
+
+const data = await loadSite();
+const { a } = data;
+const hasStory = Boolean(a.bio?.long.length || a.bio?.short);
+const hasTrack = a.prs.length + a.timeline.length + a.honors.length > 0;
+
+// Nav only lists sections that actually render.
+const links = [
+  hasStory && { href: '#story', label: 'Story' },
+  hasTrack && { href: '#track-record', label: 'Record' },
+  { href: '#internship', label: 'Work' },
+  { href: '#contact', label: 'Contact' },
+].filter((l): l is { href: string; label: string } => Boolean(l));
+---
+
+<Base path="/" jsonLd preloadDisplayFont>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <SiteHeader data={data} links={links} />
+  <main id="main">
+    <Hero data={data} />
+    <Stats data={data} />
+    <Story data={data} />
+    <TrackRecord data={data} />
+    <Gallery data={data} />
+    <InTheirWords data={data} />
+    <Press data={data} />
+    <Strengths data={data} />
+    <Internship data={data} />
+    <Contact data={data} />
+  </main>
+  <Footer data={data} />
+  <Motion />
+</Base>

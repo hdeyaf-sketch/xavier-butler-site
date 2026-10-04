@@ -1,0 +1,361 @@
+{
+  "$schema": "../../schema/athlete.schema.json",
+  "slug": "xavier-butler",
+  "name": {
+    "first": "Xavier",
+    "last": "Butler",
+    "full": "Xavier Butler",
+    "preferred": "Xavier"
+  },
+  "tagline": "The fastest 200 in Longhorn history.",
+  "headline": "Texas Track & Field · 200m · 100m · 4x100m",
+  "eventGroup": "sprints",
+  "events": [
+    "200m",
+    "100m",
+    "60m",
+    "4x100m relay",
+    "4x400m relay"
+  ],
+  "hometown": "Freeport, Texas",
+  "school": {
+    "name": "The University of Texas at Austin",
+    "major": "Sport Management",
+    "classYear": "Senior",
+    "gradDate": "Expected May 2027"
+  },
+  "contact": {
+    "email": "xaviercbutler@icloud.com",
+    "instagram": "https://www.instagram.com/Thexavierbutler",
+    "x": "https://x.com/zaexpng"
+  },
+  "bio": {
+    "short": "Xavier Butler holds the Texas 200m program record at 20.02 and was a 2025 First Team All-American after reaching the NCAA final. A Sport Management major from Freeport, Texas, he was a 2026 Project Manager Intern at Feniex Industries.",
+    "long": [
+      "Xavier Butler is the fastest 200m runner in Texas program history. At the 2025 NCAA West First Round he ran 20.02, breaking a school record that had stood for six years, and on the same day he helped the 4x100m relay set a program record of 38.57. Two weeks later he reached the 200m final at the NCAA Championships in Eugene, placing seventh after a 20.12 semifinal, and earned First Team All-America honors in the 200m and the 4x100m. In 2026 he added Second Team All-America honors on the relay.",
+      "Butler grew up on the Texas Gulf Coast and raced for Brazosport High School, winning silver medals in both the 100m and 200m at the 2023 UIL 4A state meet. He was also the football team's offensive MVP. He began college at UTEP, where he won the Conference USA outdoor 200m title as a freshman, then transferred to Texas to compete in the SEC. A Sport Management major and two-time USTFCCCA All-Academic honoree, he says he studies Noah Lyles and other elite sprinters to sharpen his own racing.",
+      "Elite sprinting runs on planning: race models, relay exchanges and a season built around a few days that matter most. As a 2026 Project Manager Intern at Feniex Industries, the Austin manufacturer of emergency-vehicle lighting and electronics, Butler applied that discipline to schedules, task tracking and coordination between departments. Relay running taught him that a handoff only works when both people know the plan, and he carries that lesson into every project, along with the organizational grounding of his Sport Management studies."
+    ]
+  },
+  "stats": [
+    {
+      "label": "200m, Texas program record",
+      "value": "20.02",
+      "note": "NCAA West First Round, 2025"
+    },
+    {
+      "label": "NCAA Championships 200m final",
+      "value": "7th",
+      "note": "Eugene, 2025"
+    },
+    {
+      "label": "4x100m relay, Texas program record",
+      "value": "38.57",
+      "note": "NCAA West First Round, 2025"
+    },
+    {
+      "label": "USTFCCCA All-America honors",
+      "value": "3x",
+      "note": "200m and 4x100m (2025), 4x100m (2026)"
+    }
+  ],
+  "prs": [
+    {
+      "event": "200m",
+      "mark": "20.02",
+      "meet": "NCAA West First Round (Texas program record)",
+      "year": "2025",
+      "indoor": false
+    },
+    {
+      "event": "100m",
+      "mark": "10.15",
+      "meet": "Tom Jones Invitational",
+      "year": "2025",
+      "indoor": false
+    },
+    {
+      "event": "60m",
+      "mark": "6.72",
+      "meet": "Jarvis Scott Open (UTEP)",
+      "year": "2024",
+      "indoor": true
+    },
+    {
+      "event": "200m",
+      "mark": "20.86",
+      "meet": "Dr. Martin Luther King Jr. Invitational",
+      "year": "2025",
+      "indoor": true
+    },
+    {
+      "event": "4x100m relay",
+      "mark": "38.57",
+      "meet": "NCAA West First Round (Texas program record)",
+      "year": "2025",
+      "indoor": false
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2023",
+      "title": "Double state silver",
+      "detail": "Placed second in the 100m and 200m at the UIL 4A state meet for Brazosport High School."
+    },
+    {
+      "year": "2024",
+      "title": "Conference USA 200m champion",
+      "detail": "Won the C-USA outdoor 200m title as a UTEP freshman."
+    },
+    {
+      "year": "2025",
+      "title": "Texas record and NCAA final",
+      "detail": "Ran a program-record 20.02 in the 200m, helped set the 4x100m record (38.57) and placed seventh in the NCAA 200m final as a First Team All-American."
+    },
+    {
+      "year": "2026",
+      "title": "Second Team All-American",
+      "detail": "Helped the Texas 4x100m qualify for the NCAA Championships, where it placed 13th in 39.03."
+    },
+    {
+      "year": "2026",
+      "title": "Project Manager Intern, Feniex Industries",
+      "detail": "Supported scheduling, task tracking and cross-department coordination at the Austin-based maker of emergency-vehicle lighting and electronics."
+    }
+  ],
+  "honors": [
+    {
+      "title": "USTFCCCA Outdoor First Team All-American, 200m",
+      "year": "2025"
+    },
+    {
+      "title": "USTFCCCA Outdoor First Team All-American, 4x100m",
+      "year": "2025"
+    },
+    {
+      "title": "USTFCCCA Outdoor Second Team All-American, 4x100m",
+      "year": "2026"
+    },
+    {
+      "title": "Texas program record, 200m (20.02)",
+      "year": "2025"
+    },
+    {
+      "title": "Texas program record, 4x100m relay (38.57)",
+      "year": "2025"
+    },
+    {
+      "title": "Conference USA Outdoor Champion, 200m (UTEP)",
+      "year": "2024"
+    },
+    {
+      "title": "USTFCCCA All-Academic Team",
+      "year": "2025, 2026"
+    },
+    {
+      "title": "SEC Academic Honor Roll",
+      "year": "Spring 2026"
+    }
+  ],
+  "inTheirWords": [
+    {
+      "quote": "I've been waiting for a long time for a time like that.",
+      "source": "Austin American-Statesman, on his 20.02 Texas record",
+      "date": "2025-06-11"
+    },
+    {
+      "quote": "I've been studying Noah and the other guys and watching their strengths and using that knowledge to help me get better.",
+      "source": "Austin American-Statesman",
+      "date": "2025-06-11"
+    },
+    {
+      "quote": "I'm getting in the groove at the right time.",
+      "source": "Austin American-Statesman, before the 2025 NCAA Championships",
+      "date": "2025-06-11"
+    }
+  ],
+  "press": [
+    {
+      "title": "NCAA Track & Field Championships: U20 athletes to watch",
+      "outlet": "World Athletics",
+      "date": "2025-06",
+      "url": "https://worldathletics.org/competitions/world-athletics-u20-championships/oregon26/news/news/2025-ncaa-track-field-championships-u20-athletes-watch"
+    },
+    {
+      "title": "No. 17 Men's Track and Field sends seven events to NCAA Outdoor Championships",
+      "outlet": "Texas Athletics",
+      "date": "2025-05-30",
+      "url": "https://texaslonghorns.com/news/2025/5/30/track-field-cross-country-no-17-mens-track-send-seven-events-to-ncaa-tf-outdoor-championships"
+    },
+    {
+      "title": "No. 13 Men's Track & Field advances four events to NCAA Championships finals",
+      "outlet": "Texas Athletics",
+      "date": "2025-06-11",
+      "url": "https://texaslonghorns.com/news/2025/6/11/track-field-cross-country-no-13-mens-track-field-advance-four-events-to-ncaa-championships-finals"
+    },
+    {
+      "title": "No. 20/10 Track and Field wins eight events on Thursday at Texas Invitational",
+      "outlet": "Texas Athletics",
+      "date": "2025-04-24",
+      "url": "https://texaslonghorns.com/news/2025/4/24/track-field-cross-country-no-20-10-track-and-field-wins-eight-events-at-longhorn-invitational"
+    },
+    {
+      "title": "Men's Track & Field advances two to finals on opening day of NCAA Championships",
+      "outlet": "Texas Athletics",
+      "date": "2026-06-10",
+      "url": "https://texaslonghorns.com/news/2026/6/10/track-field-cross-country-mens-track-field-advances-two-to-finals-on-opening-day-of-ncaa-championships"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Studies the craft",
+      "detail": "Watches Noah Lyles and other elite 200m runners and applies what he learns to his own races."
+    },
+    {
+      "title": "Bets on himself",
+      "detail": "Left UTEP as a conference champion to compete in the SEC, then broke the Texas 200m record in his first season."
+    },
+    {
+      "title": "Clean handoffs",
+      "detail": "Ran on Texas 4x100m relays that set a program record in 2025 and reached the NCAA Championships in 2025 and 2026."
+    },
+    {
+      "title": "Rises to the moment",
+      "detail": "Set his 200m best in a regional championship round and made the NCAA final in his first trip to nationals."
+    }
+  ],
+  "resume": {
+    "summary": "Sport Management major and Texas Track & Field sprinter who holds the program's 200m record (20.02) and earned three USTFCCCA All-America honors. Project Manager Intern at Feniex Industries supporting schedules, task tracking and coordination across departments.",
+    "experience": [
+      {
+        "role": "Project Manager Intern",
+        "org": "Feniex Industries",
+        "location": "Austin, TX",
+        "dates": "2026",
+        "bullets": [
+          "Supported project schedules and status tracking across engineering, production and sales at an Austin-based manufacturer of emergency-vehicle lighting and electronics.",
+          "Tracked tasks, owners and deadlines between departments and flagged open items to project leads.",
+          "Documented workflows and helped update standard operating procedures for cross-functional processes.",
+          "Used Claude and other AI tools daily to draft updates, organize meeting notes and streamline routine project tasks."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "The University of Texas at Austin",
+        "degree": "Bachelor's degree, Sport Management",
+        "dates": "2024 – Expected May 2027",
+        "details": [
+          "USTFCCCA All-Academic Team (2025, 2026)",
+          "SEC Academic Honor Roll (Spring 2026); First-Year SEC Academic Honor Roll (2024-25)"
+        ]
+      },
+      {
+        "school": "The University of Texas at El Paso (UTEP)",
+        "degree": "Transferred to UT Austin",
+        "dates": "2023 – 2024",
+        "details": []
+      }
+    ],
+    "athletics": [
+      {
+        "role": "Sprinter (100m, 200m, relays)",
+        "org": "University of Texas Track & Field (SEC)",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Set the Texas 200m program record (20.02) at the 2025 NCAA West First Round and ran on the program-record 4x100m relay (38.57).",
+          "Placed 7th in the 200m final at the 2025 NCAA Championships; First Team All-American in the 200m and 4x100m.",
+          "Placed 5th in the 200m at the 2025 SEC Outdoor Championships; Second Team All-American in the 4x100m in 2026."
+        ]
+      },
+      {
+        "role": "Sprinter",
+        "org": "UTEP Track & Field (Conference USA)",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Won the 2024 Conference USA outdoor 200m title and placed 2nd in the C-USA indoor 200m."
+        ]
+      }
+    ],
+    "leadership": [],
+    "skills": {
+      "core": [
+        "Project Coordination",
+        "Scheduling & Status Tracking",
+        "Cross-Functional Communication",
+        "Process Documentation",
+        "Event & Operations Planning",
+        "Sport Management",
+        "Time Management"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "Microsoft Word & PowerPoint",
+        "Google Workspace",
+        "Claude (AI assistant)"
+      ],
+      "languages": []
+    },
+    "honors": [
+      {
+        "title": "USTFCCCA Outdoor First Team All-American (200m, 4x100m)",
+        "year": "2025"
+      },
+      {
+        "title": "USTFCCCA Outdoor Second Team All-American (4x100m)",
+        "year": "2026"
+      },
+      {
+        "title": "USTFCCCA All-Academic Team",
+        "year": "2025, 2026"
+      },
+      {
+        "title": "SEC Academic Honor Roll",
+        "year": "Spring 2026"
+      }
+    ]
+  },
+  "hamzaQuote": {
+    "text": "Xavier runs the 200 with a plan: patient through the turn, decisive down the straight. I saw that same calm focus in him at Feniex. He watches how the best people work, learns from it and makes it his own.",
+    "attribution": "Hamza Deyaf, Founder & CEO, Feniex Industries"
+  },
+  "images": {
+    "hero": "pro.jpg",
+    "resumeCrop": {
+      "x": 0.49,
+      "y": 0.472,
+      "zoom": 1.22
+    },
+    "portrait": "athlete.jpg",
+    "action": [
+      "action-1.jpg",
+      "action-2.jpg",
+      "action-3.jpg",
+      "action-4.jpg"
+    ],
+    "actionAlt": [
+      "Xavier Butler sprints the 200m for Texas at the 2025 NCAA Outdoor Championships in Eugene",
+      "Xavier Butler wins the 200m in burnt orange at the 2025 Texas Invitational in Austin",
+      "Xavier Butler mid-race in a white Texas uniform at the 2025 Texas Relays",
+      "Xavier Butler takes the baton during a Texas relay at the 2025 Texas Relays"
+    ],
+    "feature": "action-3.jpg",
+    "featureFocus": {
+      "x": 0.5,
+      "y": 0.4
+    }
+  },
+  "photoCredits": [
+    "Texas Athletics",
+    "Stephen Spillman / Texas Athletics",
+    "Portraits: AI-assisted edits of official Texas Athletics headshots"
+  ],
+  "site": {
+    "url": "https://xavier-butler.vercel.app"
+  },
+  "seo": {
+    "title": "Xavier Butler | Texas Track & Field · Project Management",
+    "description": "Xavier Butler: Texas 200m record holder (20.02), 2025 NCAA First Team All-American, Sport Management major and 2026 Feniex Industries PM intern."
+  },
+  "noindex": true
+}
